@@ -3,7 +3,7 @@
     "description": "File loader",
     "keywords": ["yii2", "swods", "file loader", "fileloader"],
     "type": "yii2-extension",
-    "license": "BSD",
+    "license": "proprietary",
     "authors": [
         {
             "name": "SSU (SwoDs)",
